@@ -1,0 +1,73 @@
+#a
+Trans:art. 一;字母A
+#a.m.
+Trans:n. 上午
+#a/c
+Trans:n. 往来帐户@往来:come - and - go; contact; intercourse@n. 往来帐户
+#aardvark
+Trans:n. 土猪
+#aardwolf
+Trans:n. 土狼
+#aasvogel
+Trans:n. 秃鹰之一种
+#abaci
+Trans:n. 算盘
+#aback
+Trans:ad. 向后地;朝后地
+#abacus
+Trans:n. 算盘
+#abaft
+Trans:ad. 向船尾@prep. 在...后
+#abalone
+Trans:n. 鲍鱼
+#abandon
+Trans:vt. 放弃;沉溺@n. 放任
+#abandoned
+Trans:a. 被抛弃的;自弃的;自甘堕落的
+#abandonee
+Trans:n. 被遗弃者;被委付者
+#abandoner
+Trans:n. 遗弃者;委付者
+#abandonment
+Trans:n. 放弃;自暴自弃;放纵
+#abas
+Trans:vt. 打倒
+#abase
+Trans:vt. 降低...的地位;降低...的品格;贬抑
+#abasement
+Trans:n. 贬抑;屈辱;谦卑
+#abash
+Trans:vt. 使...羞愧;使困窘
+#abashment
+Trans:n. 羞愧;
+#abate
+Trans:vt. 缓和;减弱;减少;废除@vi. 缓和;减弱;减少
+#abatement
+Trans:n. 减少;减轻;缓和
+#abatis
+Trans:n. 鹿柴;拒木;铁丝网
+#abatment
+Trans:n. 消除，减除
+#abb
+Trans:n. 横丝;纬;羊毛
+#abbacy
+Trans:n. 大修道院院长之职位;管区;任期
+#abbatial
+Trans:a. 大修道院的;大修道院长的;女大修道院长的
+#abbe
+Trans:n. 大修道院院长;僧侣;神父
+#abbess
+Trans:n. 女修道院院长;女庵主持
+#abbey
+Trans:n. 修道院
+#abbot
+Trans:n. 修道院院长;方丈;住持
+#abbreviate
+Trans:vt. 缩写;使...简略;缩短
+#abbreviation
+Trans:n. 缩写
+#abbreviator
+Trans:n. 缩写者
+#abc
+Trans:n. 基础知识;美国广播公司;澳大利亚广播公司
+#abcoulomb
